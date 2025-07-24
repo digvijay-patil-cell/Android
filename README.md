@@ -61,4 +61,4 @@ ChatConnect/
 
 **Digvijay Vaibhav Patil**  
 Student, **D Y Patil Agriculture and Technical University, Talsande**  
-Project developed under **Smart-Internz – Android Development with Kotlin (Externship Program)
+Project developed under **Smart-Internz – Android Development with Kotlin (Externship Program)# Android
